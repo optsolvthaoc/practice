@@ -13,6 +13,10 @@ fixed dimension.
 
 Square is provided.
 
+###Development setup
+OS: Linux, Windows, or Mac OX X
+Tools: g++, make, NetBeans 8 with C++
+
 ###TODO: 
 
 Update the program by adding the following shapes and updating main to
