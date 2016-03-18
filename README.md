@@ -29,3 +29,28 @@ use the new shapes.
 - [ ] Circle
 - [ ] Hexagon
 - [ ] main 
+
+
+ ______
+|      | This is what a Square looks like.
+|      |
+|______|
+
+ _________________
+|                 | This is what a Rectangle looks like.
+|                 |
+|_________________|
+
+     ^
+    / \ This is what a Triangle looks like.
+   /   \
+  /     \
+ /       \
+/_________\
+
+
+I'm not going to draw a circle, sorry.
+
+ ___
+/   \    This is a very small hexagon.
+\___/
