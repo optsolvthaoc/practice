@@ -11,11 +11,13 @@ fixed dimension.
 - Triangle has three sides of 4, 3, 9.
 - Hexagon, side length of 3
 
+Hello
+
 Square is provided.
 
 ###Development setup
-OS: Linux, Windows, or Mac OX X
-Tools: g++, make, NetBeans 8 with C++
+- OS: Linux, Windows, or Mac OX X
+- Tools: g++, make, NetBeans 8 with C++
 
 ###TODO: 
 

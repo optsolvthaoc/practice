@@ -16,6 +16,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
+    //updated.
     ShapeFactory* factory = ShapeFactory::instance();
     Shape* s1 = factory->makeShape("square");
     cout << s1->perimeter() << endl;
