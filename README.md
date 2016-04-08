@@ -11,7 +11,7 @@ fixed dimension.
 - Triangle has three sides of 4, 3, 9.
 - Hexagon, side length of 3
 
-Hello
+Hello. Adrienne is trying to create a conflict.
 
 Square is provided.
 
